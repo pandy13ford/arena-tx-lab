@@ -1,2 +1,14 @@
 # arena-tx-lab
-HTML page archive and documentation
+
+发布页面归档目录
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
